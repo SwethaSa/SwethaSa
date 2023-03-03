@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swetha Sakthi</h1>
 <h3 align="center">Full Stack Developer (MERN)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swethasa&label=Profile%20views&color=0e75b6&style=flat" alt="swethasa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swethasa" alt="swethasa" /></a> </p>
-
 - 💬 Ask me about **MERN, WEB**
 
 - 📫 How to reach me **swethasakthi927@gmail.com**
@@ -24,7 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SwethaSa&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwethaSa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Know Better
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
