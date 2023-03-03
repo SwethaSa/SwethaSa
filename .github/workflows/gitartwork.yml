@@ -15,4 +15,4 @@
             user_name: swethasa
             # Text on contribution graph 
             text: SWETHA
-       - uses: jasineri/simple-push-action@v1
+       - uses: swethasa/simple-push-action@v1
