@@ -13,9 +13,6 @@
 
 - ⚡ Fun fact **Be Strong I Whispered!! To My Wifi Signal😂**
 
-# 💫 About Me:
-<br><br><br><br>MERN, WEB<br>Be Strong I Whispered!! To My Wifi Signal😂
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swetha-sakthi-6a8920230) 
