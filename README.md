@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **swethasakthi927@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFb8mjwhik/JvjT9kA1D1Sh0Ys10kfWRw/view?utm_content=DAFb8mjwhik&utm_campaign=designshare&utm_medium=link&utm_source=viewer](https://www.canva.com/design/DAFb8mjwhik/JvjT9kA1D1Sh0Ys10kfWRw/view?utm_content=DAFb8mjwhik&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+- 📄 Know about my experiences [https://media.licdn.com/dms/image/C562DAQHFOW6ShQ411Q/profile-treasury-document-images_480/1/1677910966053?e=1678924800&v=beta&t=CMSVt9csg1SFfwHU1qluRGqzL4dmtrlbg87hXI5cQMo](https://media.licdn.com/dms/image/C562DAQHFOW6ShQ411Q/profile-treasury-document-images_480/1/1677910966053?e=1678924800&v=beta&t=CMSVt9csg1SFfwHU1qluRGqzL4dmtrlbg87hXI5cQMo)
 
 - ⚡ Fun fact **Be Strong I Whispered!! To My Wifi Signal😂**
 
