@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://swethasa.io)
-
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQFf10gclNrrKg/profile-displaybackgroundimage-shrink_350_1400/0/1677835739180?e=1683158400&v=beta&t=3FOeUoDBmQ22qmAdKfMQ3-BIkeRTfdyi-_LicyW9PwE)](https://media.licdn.com/dms/image/C562DAQHFOW6ShQ411Q/profile-treasury-document-images_480/1/1677910966053?e=1678924800&v=beta&t=CMSVt9csg1SFfwHU1qluRGqzL4dmtrlbg87hXI5cQMo)
 <h1 align="center">Hi 👋, I'm Swetha Sakthi</h1>
 <h3 align="center">Full Stack Developer (MERN)</h3>
 
@@ -10,6 +9,8 @@
 - 📄 Know about my experiences [https://www.canva.com/design/DAFb8mjwhik/JvjT9kA1D1Sh0Ys10kfWRw/view?utm_content=DAFb8mjwhik&utm_campaign=designshare&utm_medium=link&utm_source=viewer](https://www.canva.com/design/DAFb8mjwhik/JvjT9kA1D1Sh0Ys10kfWRw/view?utm_content=DAFb8mjwhik&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 - ⚡ Fun fact **Be Strong I Whispered!! To My Wifi Signal😂**
+
+<img align="right" alt="Dev" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--HlfvKNVr--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gtizb0dx9ygsp5s8m8jk.png">
 
 
 ## 🌐 Socials:
