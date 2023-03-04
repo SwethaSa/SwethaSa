@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://swethasa.io)
+
 <h1 align="center">Hi 👋, I'm Swetha Sakthi</h1>
 <h3 align="center">Full Stack Developer (MERN)</h3>
 
